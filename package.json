@@ -1,7 +1,7 @@
 {
   "name": "simple-videochat-webrtc-master",
   "version": "1.0.0",
-  "description": "### By using [simple-peer](https://github.com/feross/simple-peer), this web app connects video chat between two clients.",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "watch": "npx watchify ./public/main.js -o ./public/bundle.js",
